@@ -782,6 +782,7 @@ body {
   }
   .brands-section img {
     width: 60px;
+    margin:1px auto;
   }
   .trending-section {
     padding: 25px;
