@@ -435,7 +435,7 @@ body {
 /* Shop Page CSS*/
 
 .shop-page-hero {
-  background: url("shop page banner.jpeg");
+  background: url("shop\ page\ banner.jpeg");
   height: 40vh;
   width: 100%;
   background-size: cover;
@@ -555,7 +555,7 @@ body {
 /* About Page CSS */
 
 .about-page-hero {
-  background: url("shop page banner.jpeg");
+  background: url("shop\ page\ banner.jpeg");
   height: 40vh;
   width: 100%;
   background-size: cover;
@@ -599,7 +599,7 @@ body {
 /* Contact Page CSS */
 
 .contact-page-hero {
-  background: url("contact-form-image.png");
+  background: url("shop\ page\ banner.jpeg");
   height: 40vh;
   width: 100%;
   background-size: cover;
