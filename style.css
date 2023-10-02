@@ -805,6 +805,9 @@ body {
   .news-form {
     padding-top: 18px;
   }
+  .news-form button{
+    margin-top: 4px;
+  }
   .footer-section {
   padding: 40px;
 }
