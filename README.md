@@ -1,2 +1,2 @@
 # stepsoul
-Ecommerce Website Design | Fully Responsive
+Step Soul Shoe's Ecommerce Website Design | Fully Responsive
