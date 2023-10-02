@@ -370,9 +370,9 @@ body {
   height: 48px;
   padding: 0 1rem;
   border: 1px solid transparent;
-  border-radius: 5px 0px 0px 5px;
+  border-radius: 5px;
   outline: 0;
-  margin-right: -2px;
+  margin-right: 2px;
 }
 .news-form button {
   color: white;
@@ -381,7 +381,7 @@ body {
   outline: 0;
   padding: 0 1rem;
   height: 48px;
-  border-radius: 0px 5px 5px 0px;
+  border-radius: 5px;
   cursor: pointer;
 }
 .footer-section {
@@ -805,6 +805,9 @@ body {
   .news-form {
     padding-top: 18px;
   }
+  .footer-section {
+  padding: 40px;
+}
   .shop-product-section {
     padding: 25px;
   }
